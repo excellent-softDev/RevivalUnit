@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emokoena\\source\\repos\\RevUnitWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D838A19A-558A-4B95-90E2-E89D8F66EF52}|RevUnitWebApp\\RevUnitWebApp.csproj|c:\\users\\emokoena\\source\\repos\\revunitwebapp\\revunitwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D838A19A-558A-4B95-90E2-E89D8F66EF52}|RevUnitWebApp\\RevUnitWebApp.csproj|solutionrelative:revunitwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D838A19A-558A-4B95-90E2-E89D8F66EF52}|RevUnitWebApp\\RevUnitWebApp.csproj|c:\\users\\emokoena\\source\\repos\\revunitwebapp\\revunitwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D838A19A-558A-4B95-90E2-E89D8F66EF52}|RevUnitWebApp\\RevUnitWebApp.csproj|solutionrelative:revunitwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D838A19A-558A-4B95-90E2-E89D8F66EF52}|RevUnitWebApp\\RevUnitWebApp.csproj|c:\\users\\emokoena\\source\\repos\\revunitwebapp\\revunitwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D838A19A-558A-4B95-90E2-E89D8F66EF52}|RevUnitWebApp\\RevUnitWebApp.csproj|solutionrelative:revunitwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emokoena\\source\\repos\\RevUnitWebApp\\RevUnitWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "RevUnitWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\emokoena\\source\\repos\\RevUnitWebApp\\RevUnitWebApp\\appsettings.json",
+              "RelativeToolTip": "RevUnitWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-19T08:07:19.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emokoena\\source\\repos\\RevUnitWebApp\\RevUnitWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "RevUnitWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\emokoena\\source\\repos\\RevUnitWebApp\\RevUnitWebApp\\Program.cs",
+              "RelativeToolTip": "RevUnitWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T08:07:16.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\emokoena\\source\\repos\\RevUnitWebApp\\RevUnitWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RevUnitWebApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\emokoena\\source\\repos\\RevUnitWebApp\\RevUnitWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RevUnitWebApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T08:05:31.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
